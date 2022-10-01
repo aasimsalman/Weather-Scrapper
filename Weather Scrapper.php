@@ -27,7 +27,7 @@ if (array_key_exists('city', $_GET)) {
     }
 }
 ?>
-
+// Style added
 
 <!doctype html>
 <html lang="en">
